@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "15189058983",
+    "project_id": "online-cinema-bb6e7",
+    "storage_bucket": "online-cinema-bb6e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15189058983:android:18f80f1db3ce689cdac282",
+        "android_client_info": {
+          "package_name": "com.dcodax.onlinecinema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15189058983-9tgh4n2aedfv74fm5kmgsse15adg6bgr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dcodax.onlinecinema",
+            "certificate_hash": "d185a9fcdf8d671ca44d93fc97e9e219573f42ab"
+          }
+        },
+        {
+          "client_id": "15189058983-odnm4gjp393jtk1ushlcfhtoiqobantu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz_l2d78a5L27dxOsvWxqdB9QpnpvBwao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15189058983-odnm4gjp393jtk1ushlcfhtoiqobantu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
